@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
---platform=linux/amd64 jwetzell/guacamole:latest
---platform=linux/amd64 p3terx/ariang:latest
---platform=linux/amd64 p3terx/aria2-pro:latest
---platform=linux/amd64 networkstatic/iperf3:latest
+#--platform=linux/amd64 jwetzell/guacamole:latest
+#--platform=linux/amd64 p3terx/ariang:latest
+#--platform=linux/amd64 p3terx/aria2-pro:latest
+#--platform=linux/amd64 networkstatic/iperf3:latest
+--platform=linux/amd64 dyrnq/open-webui:latest
