@@ -10,5 +10,6 @@
 #--platform=linux/amd64 networkstatic/iperf3:latest
 #--platform=linux/amd64 dyrnq/open-webui:latest
 #--platform=linux/amd64 amilys/embyserver:latest
---platform=linux/amd64 linuxserver/jellyfin:latest
---platform=linux/amd64 linuxserver/heimdall:latest
+#--platform=linux/amd64 linuxserver/jellyfin:latest
+#--platform=linux/amd64 linuxserver/heimdall:latest
+--platform=linux/amd64 guacamole/guacamole:latest
