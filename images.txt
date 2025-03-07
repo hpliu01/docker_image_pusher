@@ -12,4 +12,5 @@
 #--platform=linux/amd64 amilys/embyserver:latest
 #--platform=linux/amd64 linuxserver/jellyfin:latest
 #--platform=linux/amd64 linuxserver/heimdall:latest
---platform=linux/amd64 guacamole/guacamole:latest
+#--platform=linux/amd64 guacamole/guacamole:latest
+--platform=linux/amd64 oznu/guacamole:1.2.0-amd64
